@@ -52,6 +52,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashakansayyad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/> 
+ 
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashakansayyad&langs_count=8&layout=compact&theme=radical" alt="Most Used Languages" width="50%"/>
+</p>
+
 
 ---
 
@@ -71,6 +82,7 @@
 ---
 
 ### 🐱‍🏍 Fun Stuff:
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding GIF"/>
 </p>
